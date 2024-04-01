@@ -7,6 +7,8 @@ as [mitmproxy](https://mitmproxy.org/), another popular open-source interactive 
 This project aims to bridge the gap between the two tools by allowing the HTTP Toolkit app to use mitmproxy as a proxy
 server instead.
 
+If you don't use the HTTP Toolkit app you should consider setting up a [wireguard](https://mitmproxy.org/posts/wireguard-mode/) connection with mitmproxy instead.  
+
 ## Usage
 
 1. Download the mitmproxy addon directly from this repository or clone the repository:
