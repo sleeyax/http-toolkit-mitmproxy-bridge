@@ -22,7 +22,7 @@ $ cd http-toolkit-mitmproxy-bridge
 $ mitmproxy -s addon.py
 ```
 
-3. Check the events tab (`E`, `shift + e`) and copy the generated QR code link. Example output (redacted for
+3. Check the events tab (`E`, `shift + e`) and copy the generated QR code link. Example output (redacted for privacy):
 
 ```
 info: [03:28:08.853] Loading script ./addon.py
