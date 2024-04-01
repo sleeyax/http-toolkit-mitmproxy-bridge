@@ -19,7 +19,7 @@ $ cd http-toolkit-mitmproxy-bridge
 2. Start mitmproxy with the addon enabled:
 
 ```bash
-$ mitmproxy -s addon.py
+$ mitmproxy --ssl-insecure -s addon.py
 ```
 
 3. Check the events tab (`E`, `shift + e`) and copy the generated QR code link. Example output (redacted for privacy):
